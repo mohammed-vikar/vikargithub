@@ -1,2 +1,2 @@
 # vikargithub
-For code
+For the sake of coding
